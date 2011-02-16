@@ -1,0 +1,15 @@
+/******************************************************
+ ****                                              ****
+ **** Padlock - A simple Mac OS X screen lock app. ****
+ **** Created on February 16, 2011                 ****
+ **** Copyright Zack Marron 2011                   ****
+ ****                                              ****
+ ******************************************************/
+
+/*** BUILDING INSTRUCTIONS ***/
+
+Open "Padlock.xcodeproj" in Xcode (http://developer.apple.com/tools/).
+Press "Build and Go".
+Padlock will build into the default build directory for Xcode.
+
+/*** Copyright Zack Marron 2011 ***/
